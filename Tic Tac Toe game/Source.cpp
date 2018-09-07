@@ -67,6 +67,7 @@ char Victory()
 		return 'O';
 	}
 }
+
 int main()
 {
 	std::cout << "Let's play Tic Tac Toe!" << std::endl;
